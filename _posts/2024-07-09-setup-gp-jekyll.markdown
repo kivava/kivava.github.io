@@ -76,3 +76,5 @@ plugins:
 [Load error: cannot load such file – webrick](https://talk.jekyllrb.com/t/load-error-cannot-load-such-file-webrick/5417)
 
 [Jekyll serve fails on Ruby 3.0 #8523](https://github.com/jekyll/jekyll/issues/8523)
+
+[GitHub Pages + Jekyll 快速把 Markdown 文檔變成部落格](https://gist.github.com/fokayx/824f13320cf27439e59d)
